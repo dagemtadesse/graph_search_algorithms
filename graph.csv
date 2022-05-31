@@ -1,0 +1,23 @@
+Oradea,Zerind,71
+Zerind,Arad,75
+Oradea,Sibiu,151
+Arad,Sibiu,140
+Arad,Timisoara,118
+Timisoara,Logoj,11
+Logoj,Mehadia,70
+Mehadia,drobeta,75
+drobeta,craiova,120
+Sibiu,fagaras,99
+Sibiu,rimnicu vilcea,80
+rimnicu vilcea,pitesti,97
+pitesti,craiova,138
+pitesti,bucharest,101
+fagaras,bucharest,211
+rimnicu vilcea,craiova,146
+bucharest,giurgiu,90
+bucharest,urziceni,85
+urziceni,hirsova,98
+hirsova,eforie,86
+urziceni,vaslui,142
+vaslui,iasi,92
+iasi,neamt,87
